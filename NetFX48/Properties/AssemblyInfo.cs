@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DurableTaskListInstances")]
+[assembly: AssemblyTitle("NetFX48")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DurableTaskListInstances")]
+[assembly: AssemblyProduct("NetFX48")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7afa4245-d852-4a43-8a44-92988ccb5e7c")]
+[assembly: Guid("bf891244-4447-4580-93c6-403fa58ec06e")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFx48", "NetFX48\NetFX48.csproj", "{7AFA4245-D852-4A43-8A44-92988CCB5E7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFX48", "NetFX48\NetFX48.csproj", "{BF891244-4447-4580-93C6-403FA58EC06E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7AFA4245-D852-4A43-8A44-92988CCB5E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7AFA4245-D852-4A43-8A44-92988CCB5E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7AFA4245-D852-4A43-8A44-92988CCB5E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7AFA4245-D852-4A43-8A44-92988CCB5E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF891244-4447-4580-93C6-403FA58EC06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF891244-4447-4580-93C6-403FA58EC06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF891244-4447-4580-93C6-403FA58EC06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF891244-4447-4580-93C6-403FA58EC06E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {27B4AA70-06A9-4DF7-9F5C-82D619BEDCC5}
+		SolutionGuid = {B7DF7089-0394-43CA-9C5F-1A7D1FCBB378}
 	EndGlobalSection
 EndGlobal
